@@ -70,16 +70,10 @@ li{
 }
 
 /* HOME */
-.home{
-    background-image: ;    
-}
-
 .bg{
-    margin-top: 10rem;
-    margin-bottom: 10rem;
     width: 100vw;
-    height: 70vh;
-    background: url(images/login_page.webp);
+    height: 100vh;
+    background: url(images/EXPERIENCE.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
