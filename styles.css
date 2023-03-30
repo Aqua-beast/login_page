@@ -71,14 +71,18 @@ li{
 
 /* HOME */
 .bg{
-    width: 100vw;
     height: 100vh;
     background: url(images/EXPERIENCE.png);
     background-size: cover;
     background-repeat: no-repeat;
-    background-position: center;
+    background-position: center center;
     background-attachment: fixed;
     color: whitesmoke;
+}
+
+.home{
+    overflow-y: auto;
+    max-height: 100vh;      
 }
 
 .box{
